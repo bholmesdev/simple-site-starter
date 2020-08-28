@@ -1,2 +1,8 @@
 /node_modules
+public/*
+!public/_redirects
+!public/static
+!public/assets
+!public/favicon.*
+!public/robots.txt
 .DS_Store
